@@ -1,6 +1,6 @@
 ![logo](http://html2pdf.it/favicon-32x32.png) [html2pdf.it](http://www.html2pdf.it)
 ===========
-Generate PDFs from any web-page. You need [Node.js](http://nodejs.org) to run it.
+从任何网页生成pdf文件. 你需要 [Node.js](http://nodejs.org) 来运行它.
 
 See it in action at: [html2pdf.it](http://www.html2pdf.it).
 
